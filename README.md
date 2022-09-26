@@ -1,0 +1,1 @@
+# Mini-Max-Sum-Challenge
